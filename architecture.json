@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-philosophical-dialogue-love-mortality",
+  "title": "Upon a Polished Darkness",
+  "tagline": "In the shadow of a great man's death, a painter and a poet debate the nature of love, art, and the relentless hunger of time.",
+  "target_words": 70791,
+  "actual_words": 70791,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Art vs. Mortality",
+    "The Corruption of Grief",
+    "The Search for Essence",
+    "The Tyranny of Time"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The North Star Grown Cold",
+      "words": 5899
+    },
+    {
+      "ch": 2,
+      "title": "Where the Laurel Remembers",
+      "words": 5899
+    },
+    {
+      "ch": 3,
+      "title": "A City’s Clammy Uncertainty",
+      "words": 5899
+    },
+    {
+      "ch": 4,
+      "title": "The Shadow of the Refiner’s Fire",
+      "words": 5899
+    },
+    {
+      "ch": 5,
+      "title": "Upon a Polished Darkness",
+      "words": 5899
+    },
+    {
+      "ch": 6,
+      "title": "A Reliquary for Light",
+      "words": 5899
+    },
+    {
+      "ch": 7,
+      "title": "The Cathedral of Stolen Time",
+      "words": 5899
+    },
+    {
+      "ch": 8,
+      "title": "The Needle and the Thread",
+      "words": 5899
+    },
+    {
+      "ch": 9,
+      "title": "The Composition of Absence",
+      "words": 5899
+    },
+    {
+      "ch": 10,
+      "title": "The Hunger for Final Form",
+      "words": 5899
+    },
+    {
+      "ch": 11,
+      "title": "The Unravelling Loom",
+      "words": 5899
+    },
+    {
+      "ch": 12,
+      "title": "A Stone Warmed by Sun",
+      "words": 5899
+    }
+  ]
+}
